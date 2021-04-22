@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm DattatreyReddy.
 
-- 🔭 I'm currently learning Deeplearning (Just started 😁), 
+- 🔭 I'm currently learning Flutter (Just started 😁), 
 - 🌱 I’m currently pursuing my B.Tech Degree (Computer Science Engineering) at INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, TIRUCHIRAPPALLI, 
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: 
