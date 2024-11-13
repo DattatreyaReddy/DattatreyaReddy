@@ -10,6 +10,6 @@
   </picture>
 </p>
 
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dattatreyareddy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="padya's github stats" height="160px" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattatreyareddy&layout=donut&theme=buefy&hide_border=true" height="160px"  alt="padya's github top language stats" /> |
-| ------------- | ------------- |
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dattatreyareddy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="padya's github stats" height="160px" />
+</p>
